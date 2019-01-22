@@ -1,2 +1,2 @@
-# CodeForumLanguage
-CodeForum 中文语言文件
+# CodoforumLanguage
+Codoforum 中文语言文件
